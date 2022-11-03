@@ -3,16 +3,16 @@
 // JANGAN DIHAPUS KALAU MAU DITAMBAHIN
 
 // NUMBER
-global.owner = ['62895327934887'] 
+global.owner = ['6285757657796'] 
 global.mods = [] 
 global.prems = [] 
-global.kontak = ['62895327934887']
+global.kontak = ['6285757657796']
 
 //  INFO BOT 
 global.naown = 'KRIZYN OFC'
 global.noown = '62895327934887'
 global.namebot = 'FORYN FOUR'
-global.nobot = '6289502319715'
+global.nobot = '626285600472991'
 
 //  URL SOSMED
 global.instagram = 'https://instagram.com/itskri99'
@@ -22,20 +22,20 @@ global.web = 'https://lynk.id/kri.com' //ubah jadi website lu, bisa link ig, lin
 global.saweria = 'https://saweria.co/Kricom'
 
 // PAYMANT 
-global.dana = '081360482998'
-global.pulsa = '081360482998'
-global.gopay = '081360482998'
-global.shopay = '081360482998'
-global.ovo = '081360482998'
+global.dana = '85757657796'
+global.pulsa = '85757657796'
+global.gopay = '85757657796'
+global.shopay = '85757657796'
+global.ovo = '85757657796'
 
 // PROFILE ALL 
 global.ppreg = 'https://telegra.ph/file/445721f7cdab701543840.jpg'
-global.fotonya1 = 'https://telegra.ph/file/c58f43806ef4b7038a7f4.jpg' //ganti jadi foto bot mu
-global.fotonya2 = 'https://telegra.ph/file/c58f43806ef4b7038a7f4.jpg' //ini juga ganti 
+global.fotonya1 = 'https://drive.google.com/file/d/1XiLkZdH1r77qPRA9YSf6c0tTLRSUs34a/view?usp=drivesdk'
+global.fotonya2 = 'https://drive.google.com/file/d/1XiLkZdH1r77qPRA9YSf6c0tTLRSUs34a/view?usp=drivesdk'
 global.ppacc = 'https://telegra.ph/file/a077271ff372545599dbc.jpg'
 global.imgloc = 'https://telegra.ph/file/e6355ade20840c96814ed.jpg'
 global.media = 'https://telegra.ph/file/f209153a54698c43032f7.jpg'
-global.ppm = 'https://telegra.ph/file/85f5dd4cfb4fdd9d65cbf.jpg'  // bagian atas all command
+global.ppm = 'https://telegra.ph/file/85f5dd4cfb4fdd9d65cbf.jpg'
 
 global.fla = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=smurfs-logo&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
 
@@ -56,7 +56,7 @@ global.fpagedoc = '999'
 // WATERMARK  
 global.wm = 'ᬊᬁ 𝐅𝐎𝐑𝐘𝐍 𝐅𝐎𝐔𝐑'
 global.watermark = wm
-global.wm2 = '⫹⫺ 𝙋𝙤𝙬𝙚𝙧𝙚𝙙 𝘽𝙮 𝙆𝙧𝙞𝙯𝙮𝙣𝙊𝙛𝙘'
+global.wm2 = '⫹⫺ 𝙋𝙤𝙬𝙚𝙧𝙚𝙙 𝘽𝙮 REVANN'
 global.wm3 = '⫹⫺ 𝐅𝐎𝐑𝐘𝐍 𝐅𝐎𝐔𝐑 | BOT WHATSAPP MD'
 global.tb = 'WHATSAPP BOT MULTI DEVICE'
 
